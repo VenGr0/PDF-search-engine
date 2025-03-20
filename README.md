@@ -18,7 +18,7 @@
 
 1. Клонируйте репозиторий:
    ```bash
-   git clone https://github.com/ваш-username/pdf_search.git
+   git clone https://github.com/VenGr0/PDF-search-engine.git
    cd pdf_search
    ```
 
